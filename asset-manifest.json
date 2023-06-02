@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mockqn-GetSortNames/static/css/main.073c9b0a.css",
+    "main.js": "/mockqn-GetSortNames/static/js/main.2155557b.js",
+    "static/js/787.1e9412c0.chunk.js": "/mockqn-GetSortNames/static/js/787.1e9412c0.chunk.js",
+    "static/media/logo.svg": "/mockqn-GetSortNames/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mockqn-GetSortNames/index.html",
+    "main.073c9b0a.css.map": "/mockqn-GetSortNames/static/css/main.073c9b0a.css.map",
+    "main.2155557b.js.map": "/mockqn-GetSortNames/static/js/main.2155557b.js.map",
+    "787.1e9412c0.chunk.js.map": "/mockqn-GetSortNames/static/js/787.1e9412c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2155557b.js"
+  ]
+}
